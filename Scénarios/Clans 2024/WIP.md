@@ -12,3 +12,7 @@
 
 - ~~Asgard~~ (retrait selon le scénario)
 	- Devait partir pour la galaxie de pégase (Vanir)
+
+## Messages à Pierre
+
+Salutations, oh grand maître de la section jeux de rôles. En prévision de Clans, je souhaite proposer un scénario Stargate au club. Je peux le proposer lors d'un OSS ou autre. Sachant que je ne pense pas que la version actuelle du scénario tienne en une seule séance.
