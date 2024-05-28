@@ -9,7 +9,8 @@ Comme les humains de base de Savage Worlds. Ils reçoivent un atout gratuit à l
 
 ## Ancien hôte Goa'uld
 
-Capacité d'utiliser les artefacts Goa'uld.
+Capacité d'utiliser les artefacts Goa'uld (fonctionne comme l'arcane science étrange).
+- Kara kesh est une sorte de gant permettant de repousser les ennemis, torturer quelqu'un ou emmètre un bouclier énergétique.
 Cauchemars.
 
 ## Peuple d'Aris Bosh

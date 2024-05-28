@@ -12,6 +12,8 @@
 
 - ~~Asgard~~ (retrait selon le scénario)
 	- Devait partir pour la galaxie de pégase (Vanir)
+- Capitaine Kyle Rogers / Rophiapgisy de l'épisode "Rules of Engagement".
+	- Des jeunes humains ont été recruté par Apophis et entrainé pour infiltrer la Tau'ri en se faisant passer pour des soldats du SGC.
 
 ## Messages à Pierre
 
