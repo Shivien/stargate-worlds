@@ -11,12 +11,14 @@
 - Pour 1 point de Handicap vous gagnez un autre point de Compétence, ou vous avez deux fois les fonds de départ en supplément.
 ## ATTRIBUTS
 
-- Les Attributs commencent à d4. Vous disposez de 5 points à répartir. Chaque cran coûte 1 point.
+- ~~Les Attributs commencent à d4. Vous disposez de 5 points à répartir. Chaque cran coûte 1 point.~~
+- Les Attributs commencent à d4. Vous disposez de 6 points à répartir. Chaque cran coûte 1 point.
 - Les Attributs ne peuvent pas dépasser d12 à la création sauf mention contraire pour l’espèce ou la culture du héros.
 ## COMPÉTENCES
 
 - Athlétisme, Culture générale, Discrétion, Perception et Persuasion sont des Compétences de base et commencent gratuitement à d4.
-- Vous disposez de 12 points à répartir dans l’ensemble des Compétences.
+- ~~Vous disposez de 12 points à répartir dans l’ensemble des Compétences.~~
+- Vous disposez de 20 points à répartir dans l’ensemble des Compétences.
 - Chaque cran coûte 1 point jusqu’à atteindre l’Attribut lié, puis 2 points au-delà.
 ## CARACTÉRISTIQUES SECONDAIRES
 

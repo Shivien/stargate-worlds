@@ -14,7 +14,7 @@ Borgne (Majeur) : action utilisant la vue -2 si à plus de 5 cases (10 m).
 
 **Chimère (Mineur ou Majeur) :** croit en des choses étranges lui causant des ennuis occasionnels ou fréquents.
 
-Code d’Honneur (Majeur) : tient parole et agit comme un gentleman.
+**Code d’Honneur (Majeur) :** tient parole et agit comme un gentleman.
 
 Couard (Majeur) : Terreur et résister à Intimidation -2.
 
