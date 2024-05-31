@@ -35,6 +35,7 @@ const skills = [
 	{ name: "Recherche", attr: "INT", val: "", cost: 0 },
 	{ name: "Soins", attr: "INT", val: "", cost: 0 },
 	{ name: "Stratégie", attr: "INT", val: "", cost: 0 },
+	{ name: "Subterfuge", attr: "AGI", val: "", cost: 0 },
 	{ name: "Survie", attr: "INT", val: "", cost: 0 },
 	{ name: "Technologie", attr: "INT", val: "d6", cost: 2 },
 	{ name: "Tir", attr: "AGI", val: "d4", cost: 1 },
@@ -50,5 +51,17 @@ dv.table(
 ```
 
 ## Handicaps
+
+- Cauchemars
+
 ## Atouts
+
+- Assassin : +2 aux dégâts si la cible est Vulnérable ou s'il fait une Attaque surprise.
+- Hôte Goa'uld : utilisation des artefacts Goa'uld.
 ## Équipements
+
+- Kara kesh (gant Goa'uld)
+	- Rafale
+	- Ravage
+- Bracelet de guérison
+	- Guérison
