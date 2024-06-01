@@ -1,0 +1,19 @@
+.pbe--01 {
+  padding-block-end: 1px;
+}
+
+.text--center {
+  text-align: center;
+}
+
+.text--nowrap {
+  white-space: nowrap;
+}
+
+.title--1 {
+  font-size: var(--font-size-3);
+}
+
+.title--2 {
+  font-size: var(--font-size-2);
+}

@@ -1,0 +1,50 @@
+.grid {
+  --cols-count: 1;
+  --cols-type: 1fr;
+  --column-gap: normal;
+  --row-gap: normal;
+  column-gap: var(--column-gap);
+  display: grid;
+  grid-template-columns: repeat(var(--cols-count), var(--cols-type));
+  row-gap: var(--row-gap);
+}
+
+/* GAP */
+
+.colgap--3 {
+  --column-gap: var(--size-3);
+}
+
+.rowgap--2 {
+  --row-gap: var(--size-2);
+}
+
+/* COLUMNS */
+
+.cols--3 {
+  --cols-count: 3;
+}
+
+/* COLUMN SPAN */
+
+.grid > .colspan--2 {
+  grid-column: span 2;
+}
+
+.grid > .colspan--3 {
+  grid-column: span 3;
+}
+
+/* ROW SPAN */
+
+.grid > .rowspan--2 {
+  grid-row: span 2;
+}
+
+.grid > .rowspan--3 {
+  grid-row: span 3;
+}
+
+.grid > .rowspan--4 {
+  grid-row: span 4;
+}

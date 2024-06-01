@@ -1,0 +1,130 @@
+@import "/css/base.css";
+@import "/css/flex.css";
+@import "/css/grid.css";
+
+@import "../fonts/STARGATE\ SG1\ Fonts.css";
+@import "../fonts/Stargate\ SG1\ Glyphs.css";
+@import "../fonts/stargate_sg1_adress_glyphs.css";
+
+@media screen {
+  body {
+    align-items: center;
+    background-color: var(--gray-5);
+    display: flex;
+    justify-content: center;
+  }
+  .page.page--a4 {
+    background-color: var(--gray-0);
+    box-sizing: border-box;
+    padding: 1cm;
+    height: 29.7cm;
+    width: 21cm;
+  }
+}
+
+/* LAYOUT */
+
+.page {
+  --sg-column-gap: var(--size-3);
+  --sg-row-gap: var(--size-2);
+
+  display: flex;
+  flex-direction: column;
+  gap: var(--sg-row-gap);
+}
+
+/* COMPONENTS */
+
+.title--1 {
+  font-size: var(--font-size-3);
+  text-align: center;
+}
+
+.grid__header {
+  border-bottom: var(--text) solid var(--border-1);
+  font-family: 'stargate';
+  font-weight: var(--font-weight-7);
+  grid-column: span var(--sg-grid-columns);
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.logo {
+  aspect-ratio: 1 / 1;
+  background-image: url("./img/stargate.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.identity {
+  --sg-grid-columns: 2;
+
+  display: grid;
+  column-gap: var(--sg-column-gap);
+  row-gap: var(--sg-row-gap);
+  grid-template-columns: 3fr 1fr;
+  grid-template-rows: min-content 1fr;
+}
+
+.identity > .fullspan {
+  grid-column: span var(--sg-grid-columns);
+}
+
+.attributes {
+  --sg-grid-columns: 2;
+
+  display: grid;
+  row-gap: var(--sg-row-gap);
+  grid-template-columns: 1fr 3rem;
+}
+
+.skills {
+  --sg-grid-columns: 3;
+
+  column-gap: 0;
+  display: grid;
+  grid-template-columns: 1fr 3rem 3rem;
+  justify-content: center;
+  row-gap: var(--sg-row-gap);
+}
+
+.skills > :nth-child(3n+2 of div) {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  opacity: .3;
+  text-transform: uppercase;
+}
+
+.status {
+  align-items: center;
+  column-gap: var(--sg-column-gap);
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  justify-content: center;
+}
+
+.status > * {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.hindrances,
+.edges,
+.attacks,
+.gears {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sg-row-gap);
+}
+
+.line {
+  border-bottom: var(--gray-5) solid var(--border-1);
+  grid-column: span var(--sg-grid-columns);
+}
+
+.line::before {
+  content: "\00a0";
+}
