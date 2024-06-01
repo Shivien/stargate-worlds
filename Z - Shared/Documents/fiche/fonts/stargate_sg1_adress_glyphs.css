@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'stargate address glyphs';
+  src: url("./stargate_sg1_adress_glyphs.ttf");
+}
+
+.font--stargate-address-glyphs {
+  font-family: 'stargate address glyphs', Arial, Helvetica, sans-serif;
+}

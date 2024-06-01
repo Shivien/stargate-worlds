@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'stargate glyph';
+  src: url("./Stargate\ SG1\ Glyphs.ttf");
+}
+
+.font--stargate-glyph {
+  font-family: 'stargate glyph', Arial, Helvetica, sans-serif;
+}

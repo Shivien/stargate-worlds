@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'stargate';
+  src: url("./STARGATE\ SG1\ Fonts.TTF");
+}
+
+.font--stargate {
+  font-family: 'stargate', Arial, Helvetica, sans-serif;
+}
