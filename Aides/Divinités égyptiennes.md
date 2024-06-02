@@ -1,0 +1,24 @@
+
+- Anubis : tête de chacal.
+- Bastet : tête de chat.
+- Hathor : tête de vache
+- Horus : tête de faucon.
+- Isis : tête d'hirondelle
+- Osiris
+- Ra : tête de faucon
+- Set : tête de chacal
+- Sobek : tête de crocodile
+- Thoth : tête d'ibis.
+
+- Hapi : tête de babouin
+- Khepri : tête de scarabée
+- Apis : tête de buffle
+- Hat-merit : tête de dauphin
+- Haroeris : tête d'âne
+- Nun : grenouille
+- Geb : tête d'oie
+- Tauret : tête d'hippopotame
+- Sekhmet : tête de lionne
+- Market : tête de lynx
+- Khnum : tête de bélier
+- Nekhbet : tête de vautour

@@ -2,7 +2,6 @@ Humain extraterrestre recruté par Apophis pour former une troupe de non Jaffa. 
 SG1 a découvert le camp d'entrainement. Celui-ci avait été abandonné par les maîtres Jaffas parti pour combattre au côté d'Apophis. SG1 a réussi a les convaincre d'abandonner leur entrainement.
 ## Attributs (5)
 
-
 ```dataviewjs
 const attributes = [
 	{ name: "Agilité", val: "d8", cost: 2 },
@@ -26,7 +25,7 @@ const skills = [
 	{ name: "Athlétisme*", attr: "AGI", val: "d8", cost: 2 },
 	{ name: "Combat", attr: "AGI", val: "d6", cost: 2 },
 	{ name: "Culture générale*", attr: "INT", val: "d4", cost: 0 },
-	{ name: "Discrétion*", attr: "AGI", val: "d6", cost: 1 },
+	{ name: "Discrétion*", attr: "AGI", val: "d8", cost: 2 },
 	{ name: "Éducation", attr: "INT", val: "", cost: 0 },
 	{ name: "Intimidation", attr: "AME", val: "d6", cost: 3 },
 	{ name: "Perception*", attr: "INT", val: "d6", cost: 1 },
@@ -35,8 +34,8 @@ const skills = [
 	{ name: "Pilotage", attr: "AGI", val: "d4", cost: 1 },
 	{ name: "Provocation", attr: "INT", val: "", cost: 0 },
 	{ name: "Recherche", attr: "INT", val: "", cost: 0 },
-	{ name: "Soins", attr: "INT", val: "d4", cost: 1 },
-	{ name: "Stratégie", attr: "INT", val: "d8", cost: 4 },
+	{ name: "Soins", attr: "INT", val: "d6", cost: 2 },
+	{ name: "Stratégie", attr: "INT", val: "d6", cost: 2 },
 	{ name: "Subterfuge", attr: "AGI", val: "", cost: 0 },
 	{ name: "Survie", attr: "INT", val: "d6", cost: 2 },
 	{ name: "Technologie", attr: "INT", val: "", cost: 0 },
@@ -57,9 +56,9 @@ dv.table(
 - **Loyal (Mineur) :** loyal envers ses amis et ses alliés.
 ## Atouts
 
-- Commandement
-- Inspiration
-- Leader naturel
+- **Esquive :** -2 aux attaques à distance contre le personnage.
+- **Rock'n roll ! :** ignore la pénalité de recul en cas de tir avec une cadence supérieure ou égale à 2.
+- **Véloce :** +2 en Allure et le dé de course est un d8.
 
 ## Équipements
 

@@ -11,6 +11,19 @@ Noms à utiliser pour des personnages non joueurs improvisés.
 - [ ] Ketil
 - [ ] Skuf
 - [ ] Slothi
+
+## Extraterrestres
+
+- [ ] Bheehmads
+- [ ] Crunzans
+- [ ] Fahain
+- [ ] Greked
+- [ ] Ignith
+- [ ] Kestrel
+- [ ] Nostrets
+- [ ] Osta
+- [ ] Scrasans
+- [ ] Yemmud
 ## Goa'uld
 
 - [ ] Athorlir
@@ -25,15 +38,15 @@ Noms à utiliser pour des personnages non joueurs improvisés.
 ## Humain - Égypte ancienne
 
 - [ ] Asychis
-- [x] Atemu
+- [ ] Atemu
 - [ ] Enna
-- [x] Idogbe
+- [ ] Idogbe
 - [ ] Ken
 - [ ] Mi-atum-u
 - [ ] Pet-ament
-- [x] Piouer
+- [ ] Piouer
 - [ ] Suten-ra-ankh
-- [x] Uer-mu
+- [ ] Uer-mu
 ## Jaffa
 
 - [ ] Biko
@@ -46,3 +59,15 @@ Noms à utiliser pour des personnages non joueurs improvisés.
 - [ ] Uss'an
 - [ ] Veryk
 - [ ] Yandy
+## Planète
+
+- [ ] Yankiunia
+- [ ] Halaruta
+- [ ] Megniri
+- [ ] Tendao
+- [ ] Mihines
+- [ ] Renus
+- [ ] Choterilia
+- [ ] Bronia
+- [ ] Phiuq
+- [ ] Strara

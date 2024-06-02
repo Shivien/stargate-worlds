@@ -65,3 +65,4 @@ dv.table(
 	- Ravage
 - Bracelet de guérison
 	- Guérison
+- 

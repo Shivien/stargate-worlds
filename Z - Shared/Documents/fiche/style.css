@@ -2,9 +2,9 @@
 @import "/css/flex.css";
 @import "/css/grid.css";
 
-@import "../fonts/STARGATE\ SG1\ Fonts.css";
-@import "../fonts/Stargate\ SG1\ Glyphs.css";
-@import "../fonts/stargate_sg1_adress_glyphs.css";
+@import "/fonts/STARGATE\ SG1\ Fonts.css";
+@import "/fonts/Stargate\ SG1\ Glyphs.css";
+@import "/fonts/stargate_sg1_adress_glyphs.css";
 
 @media screen {
   body {

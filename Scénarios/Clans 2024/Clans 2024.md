@@ -4,19 +4,23 @@ Les personnages croisent un vendeur qui possède une [[Pierre de contrôle Asgar
 ## Personnages
 
 - [[Ke'cek]] : rebelle [[Jaffa]]
-- [[Kyle Rogers]] : soldat non terrien du SGC
-- ... : humain ancien hôte du [[Goa'uld]] [[Heka]]
+- [[Capitaine Kyle Rogers]] : soldat non terrien du SGC
+- [[Teti]] : humain ancien hôte du [[Goa'uld]] [[Heka]]
 ## Introduction
+
+
 ## Situations
 ## Secrets et indices
 ## Acteurs
 
 - Vendeur ambulant passant par la porte des étoiles.
-- Vassal [[Goa'uld]] aux ordres de [[Seshat]] suivant la piste d'une autre [[Pierre de contrôle Asgard]].
-- Vendeur
+- [[Seshat]] : [[Goa'uld]] vassal de [[Sobek]] suivant la piste d'une autre [[Pierre de contrôle Asgard]] pour celui-ci.
+- Atemu : vendeur de curiosité sur la planète
 - [[Hœnir]] un [[Vanir]] piégé dans son vaisseau écrasé sur une planète sans [[Stargate]] depuis le départ des [[Vanir]].
 ## Lieux
 
-- Planète Yolota sous le contrôle d'un [[Goa'uld]] qui a été tué par les [[Seigneur des systèmes Goa'uld]] après une bataille qui a laissé un grand nombre d'épaves de vaisseaux en orbite et à la surface de la planète. La planète est devenue une sorte d'immense décharge qui n'a pas assez de valeur pour qu'un [[Goa'uld]] en prenne le contrôle.
+- P4X-650 : planète du site Alpha.
+- Planète Thagnurn : anciennement sous le contrôle du [[Goa'uld]] Qidesha qui a été tué par les [[Seigneur des systèmes Goa'uld]] après une bataille qui a laissé un grand nombre d'épaves de vaisseaux en orbite et à la surface de la planète. La planète est devenue une sorte d'immense décharge qui n'a pas assez de valeur pour qu'un autre [[Goa'uld]] en prenne le contrôle.
+- Vaisseau habitat des [[Vandrols]] : peuple ayant quitté leur monde il y a plusieurs générations et voyageant désormais de planète en planète en faisant de troc pour assurer l'entretien de leur vaisseau vieillissant.
 ## Trésors
 ## Notes
