@@ -11,7 +11,6 @@ Noms à utiliser pour des personnages non joueurs improvisés.
 - [ ] Ketil
 - [ ] Skuf
 - [ ] Slothi
-
 ## Extraterrestres
 
 - [ ] Bheehmads
@@ -38,7 +37,7 @@ Noms à utiliser pour des personnages non joueurs improvisés.
 ## Humain - Égypte ancienne
 
 - [ ] Asychis
-- [ ] Atemu
+- [x] Atemu
 - [ ] Enna
 - [ ] Idogbe
 - [ ] Ken
@@ -46,7 +45,7 @@ Noms à utiliser pour des personnages non joueurs improvisés.
 - [ ] Pet-ament
 - [ ] Piouer
 - [ ] Suten-ra-ankh
-- [ ] Uer-mu
+- [x] Uer-mu
 ## Jaffa
 
 - [ ] Biko
@@ -64,7 +63,7 @@ Noms à utiliser pour des personnages non joueurs improvisés.
 - [ ] Yankiunia
 - [ ] Halaruta
 - [ ] Megniri
-- [ ] Tendao
+- [x] Tendao
 - [ ] Mihines
 - [ ] Renus
 - [ ] Choterilia

@@ -52,6 +52,7 @@ dv.table(
 
 - Curieux (majeur)
 - Hésitant (mineur)
+- Bavard
 ## Atouts
 
 - Débrouillard

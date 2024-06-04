@@ -50,7 +50,7 @@ dv.table(
 
 ## Handicaps
 
-- **Code d'honneur (Majeur) :** fonce sans réfléchir.
+- **Code d'honneur (Majeur) :** ...
 - **Loyal (Mineur) :** loyal envers ses amis et ses alliés.
 ## Atouts
 
